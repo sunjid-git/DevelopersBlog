@@ -21,7 +21,10 @@
 .max-width-2{
     max-width:60vw;
 }
-
+.mx-1{
+    margin-left: 25px;
+    margin-right: 25px;
+}
 .my-2{
     margin-top: 12px;
     margin-bottom: 12px;
