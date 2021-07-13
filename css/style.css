@@ -51,6 +51,9 @@
 
 .nav-right{}
 
+.content-left h1{
+    color: var(--main-bg-color);
+}
 
 .content-left{
     font-family: var(--font1);
@@ -59,6 +62,7 @@
     /* align-items: center; */
     justify-content:center;
     padding: 50px;
+    z-index: 1;
 }
 .content-right{
     display: flex;
